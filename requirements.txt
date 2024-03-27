@@ -1,0 +1,5 @@
+ragas
+weaviate-client
+langchain
+langchain-openai
+openai
